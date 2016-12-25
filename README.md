@@ -88,3 +88,8 @@ curb是一个导航页,目前由hey-q团队维护，发布重要工具类链接�
 示例页面：[demo](http://119.29.238.25/jstoshort1.html)
 
 emojione是一个很大的项目，做的事情不仅仅是上述转换，也不止包含js的代码，有余力的话可以多研究一下。
+
+## icomoon
+一个不错的图标字体资源网站，在上面我们可以获取大量免费的图标字体，通过搜索框搜索关键字的强大功能，基本都可以找到免费的资源，比如我需要找意见反馈的字体图标，我会在搜索框搜索“feedback”。
+
+网站地址 [https://icomoon.io/app/#/select](https://icomoon.io/app/#/select)
